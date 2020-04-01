@@ -2,5 +2,3 @@
 历年内容：
 http://2018.qconbeijing.com/schedule/
 http://2017.qconbeijing.com/schedule/
-http://2016.qconbeijing.com/schedule/
-http://2015.qconbeijing.com/schedule/
